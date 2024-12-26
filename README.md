@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-    <img src="https://files.catbox.moe/m5wjc1.jpg">
+    <img src="https://files.catbox.moe/x3i6mc.jpeg">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -31,10 +31,10 @@
 
 
 ### Contact:
-<a href="https://t.me/ll_VIBER_ll">
+<a href="https://t.me/NottyDaddy">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
-<a href="https://instagram.com/amrit_raj.9">
-    <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://t.me/KarmaLimitedBot">
+    <img title="UserBot" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
 
